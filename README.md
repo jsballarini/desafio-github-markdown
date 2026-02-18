@@ -20,7 +20,7 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar soluções de integração,
 
 - 🔭 Atualmente trabalhando em **BallaPDF**, **Perseus Hub** e **Legado em Movimento**.
 - 🌱 Aprendendo e aprimorando **.NET 9**, **Blazor** e arquiteturas escaláveis.
-- 💬 Pergunte-me sobre **Python (FastAPI), React, Next.js, Flutter e Integrações de E-commerce**.
+- 💬 Outras ferramentas que utilizo: **Python (FastAPI), React, Next.js, Flutter e Integrações de E-commerce**.
 - ⚡ Curiosidade: Sou apaixonado por criar e desenvolver soluções que resolvem problemas reais.
 
 ---
