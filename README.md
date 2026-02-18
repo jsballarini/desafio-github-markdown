@@ -66,7 +66,7 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar soluções de integração,
   <a href="https://github.com/jsballarini">
   
   <!-- Metrics (Simple & Classic) -->
-  <img width="100%" src="./github-metrics.svg" alt="Metrics" />
+  <img width="50%" src="./github-metrics.svg" alt="Metrics" />
   
   <br/>
 
