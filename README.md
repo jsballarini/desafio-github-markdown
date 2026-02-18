@@ -3,10 +3,10 @@
   <h3 align="center">Desenvolvedor Full-Stack</h3>
   
   <p align="center">
-    <a href="https://linkedin.com/in/julianoballarini" target="_blank">
+    <a href="https://www.linkedin.com/in/juliano-ballarini-703098ba/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:contato@ballarini.com.br">
+    <a href="mailto:julianosb@gmail.com">
       <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
     </a>
   </p>
@@ -98,7 +98,19 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar soluções de integração,
  
 ---
 
+### 🏆 Sobre este Repositório
+
+Este projeto foi desenvolvido como submissão para o **Desafio GitHub Markdown**. 
+
+O objetivo foi criar um perfil de desenvolvedor completo, visualmente atraente e automatizado, utilizando todo o poder do Markdown e das ferramentas do ecossistema GitHub.
+
+**Recursos utilizados:**
+*   **GitHub Actions:** Workflow automatizado para geração diária de métricas (`metrics.yml`).
+*   **Lowlighter Metrics:** Geração de cards de estatísticas personalizados (Template Classic).
+*   **Shields.io:** Badges informativas para Tech Stack e Contatos.
+*   **Streak Stats:** Acompanhamento visual de contribuições contínuas.
+*   **Markdown Avançado:** Uso de tabelas, alinhamentos e formatação rica.
 
 <div align="center">
-  <p>Feito por <a href="https://github.com/jsballarini">Juliano Ballarini</a></p>
+  <sub>Desenvolvido com 💙 por Juliano Ballarini</sub>
 </div>
