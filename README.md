@@ -95,9 +95,10 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar soluções de integração,
 - **Boas Práticas:** Componentização, reutilização e padrões de projeto.
 - **Commits:** Padronização com Conventional Commits.
 - **Documentação:** README.md, CHANGELOG.md e TODO.md sempre atualizados.
-
+ 
 ---
 
+
 <div align="center">
-  <p>Feito com ❤️ por <a href="https://github.com/jsballarini">Juliano Ballarini</a></p>
+  <p>Feito por <a href="https://github.com/jsballarini">Juliano Ballarini</a></p>
 </div>
