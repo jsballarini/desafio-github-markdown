@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Olá, eu sou Juliano Ballarini 👋</h1>
-  <h3 align="center">Desenvolvedor Full-Stack | Especialista em Integrações | SaaS & Mobile</h3>
+  <h3 align="center">Desenvolvedor Full-Stack</h3>
   
   <p align="center">
     <a href="https://linkedin.com/in/julianoballarini" target="_blank">
