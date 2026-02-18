@@ -109,8 +109,4 @@ O objetivo foi criar um perfil de desenvolvedor completo, visualmente atraente e
 *   **Lowlighter Metrics:** Geração de cards de estatísticas personalizados (Template Classic).
 *   **Shields.io:** Badges informativas para Tech Stack e Contatos.
 *   **Streak Stats:** Acompanhamento visual de contribuições contínuas.
-*   **Markdown Avançado:** Uso de tabelas, alinhamentos e formatação rica.
-
-<div align="center">
-  <sub>Desenvolvido com 💙 por Juliano Ballarini</sub>
-</div>
+*   **Markdown Avançado:** Uso de tabelas, alinhamentos e formatação ricas
